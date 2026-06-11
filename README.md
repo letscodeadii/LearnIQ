@@ -1,4 +1,4 @@
-# 🔴 Redmi - Comprehensive Education Management System
+# LearnIQ( Comprehensive Education Management System)
 
 Redmi is a robust, scalable, and user-friendly web application designed to streamline the management of educational institutions. It integrates modern frontend technologies with a powerful backend to offer a seamless experience for admins, teachers, students, and parents.
 
